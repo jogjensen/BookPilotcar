@@ -1,0 +1,59 @@
+
+header.style{
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    }
+    
+    
+    li.custom1{
+    text-decoration-color: wheat;
+    background-color: black;
+    text-align: center;
+    list-style: none;
+    border-style: solid;
+    height: 40px;
+    text-decoration: none;
+    color: black;
+    }
+    
+    button.MyBtnStyleIndex{
+        width: 50%;
+        height: 40px;
+        
+    }
+    
+    button.MyBtnStyle{
+        width: 33.333%;
+        height: 40px;
+        background-color:grey; 
+    }
+
+    h2{
+        margin-top: 10%;
+       text-align: center;
+    }
+
+    button.MyBtnStyle2{
+        width: 200px;
+        height: 60px;
+        background-color: green;
+        margin-top: 10%;
+        margin-left: 43%;
+    }
+    
+    div.col-sm-4{
+        
+        text-align: center;
+    }
+
+    ul.custom2{
+        padding: 0%;
+        margin: 0%;
+        
+    }
+    
+    
+    
+    
